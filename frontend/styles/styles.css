@@ -10,6 +10,10 @@ body {
   background-size: cover;
 }
 
+.char-plan {
+  display: none;
+}
+
 #root,
 body,
 footer {
